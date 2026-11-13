@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="돌봄바통 로고" width="140">
+  <img src="https://raw.githubusercontent.com/yongyong-18team/.github/main/profile/logo.png" alt="돌봄바통 로고" width="140">
 </p>
 
 # 돌봄바통
