@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="돌봄바통 로고" width="140">
+</p>
+
 # 돌봄바통
 
 > 일기로 남긴 일상이, 다음 돌봄을 위한 설명서가 됩니다.
@@ -30,14 +34,14 @@
 
 2주 동안 기획 1명, 프론트엔드 2명, 백엔드 3명이 함께 만들었습니다.
 
-| 역할 | 이름 | GitHub | 맡은 일 |
-| --- | --- | --- | --- |
-| 기획 | 김태랑 | [@xofkd009](https://github.com/xofkd009) | 서비스 기획, 문구, AI 평가 데이터, 시연·발표 |
-| 프론트엔드 | 정세훈 | [@Sehoon-Jeong](https://github.com/Sehoon-Jeong) | 가입·온보딩·홈·기록 흐름, 위기 안내 |
-| 프론트엔드 | 조윤아 | [@imly-dia](https://github.com/imly-dia) | 설명서, 공유, 수신자 페이지, 돌봄 지원, 공동 관리자 |
-| 백엔드 | 박찬 | [@parkc31](https://github.com/parkc31) | 인증, 설명서, 공유, 공동 관리자, 배포 |
-| 백엔드 | 송현석 | [@Hyunsuk305](https://github.com/Hyunsuk305) | 온보딩, 일기, 음성 인식, AI 분석 |
-| 백엔드 | 채원 | [@wonnbu](https://github.com/wonnbu) | 리포트, 돌봄 지원, 소진 신호, 공공데이터 |
+| | 역할 | 이름 | GitHub | 맡은 일 |
+| --- | --- | --- | --- | --- |
+| <img src="https://github.com/xofkd009.png?size=64" width="48" height="48" alt="김태랑"> | 기획 | 김태랑 | [@xofkd009](https://github.com/xofkd009) | 서비스 기획, 문구, AI 평가 데이터, 시연·발표 |
+| <img src="https://github.com/Sehoon-Jeong.png?size=64" width="48" height="48" alt="정세훈"> | 프론트엔드 | 정세훈 | [@Sehoon-Jeong](https://github.com/Sehoon-Jeong) | 가입·온보딩·홈·기록 흐름, 위기 안내 |
+| <img src="https://github.com/imly-dia.png?size=64" width="48" height="48" alt="조윤아"> | 프론트엔드 | 조윤아 | [@imly-dia](https://github.com/imly-dia) | 설명서, 공유, 수신자 페이지, 돌봄 지원, 공동 관리자 |
+| <img src="https://github.com/parkc31.png?size=64" width="48" height="48" alt="박찬"> | 백엔드 | 박찬 | [@parkc31](https://github.com/parkc31) | 인증, 설명서, 공유, 공동 관리자, 배포 |
+| <img src="https://github.com/Hyunsuk305.png?size=64" width="48" height="48" alt="송현석"> | 백엔드 | 송현석 | [@Hyunsuk305](https://github.com/Hyunsuk305) | 온보딩, 일기, 음성 인식, AI 분석 |
+| <img src="https://github.com/wonnbu.png?size=64" width="48" height="48" alt="채원"> | 백엔드 | 채원 | [@wonnbu](https://github.com/wonnbu) | 리포트, 돌봄 지원, 소진 신호, 공공데이터 |
 
 ## 저장소
 
