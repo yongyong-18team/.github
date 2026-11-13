@@ -43,8 +43,4 @@
 | <img src="https://github.com/Hyunsuk305.png?size=64" width="48" height="48" alt="송현석"> | 백엔드 | 송현석 | [@Hyunsuk305](https://github.com/Hyunsuk305) | 온보딩, 일기, 음성 인식, AI 분석 |
 | <img src="https://github.com/wonnbu.png?size=64" width="48" height="48" alt="채원"> | 백엔드 | 채원 | [@wonnbu](https://github.com/wonnbu) | 리포트, 돌봄 지원, 소진 신호, 공공데이터 |
 
-## 저장소
 
-- [backend](https://github.com/yongyong-18team/backend): API 서버, 설계 문서(기획안, ERD, API 명세 등)
-
-이 프로젝트는 해커톤 MVP이며 가상 데이터만 사용합니다.
