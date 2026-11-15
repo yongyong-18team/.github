@@ -13,7 +13,6 @@
 | 바로가기 | |
 | --- | --- |
 | 서비스 (모바일 웹) | https://yongyong-18team-frontend.vercel.app |
-| 발표 자료 (IR Deck) | [batong_ir_deck.pdf](https://github.com/yongyong-18team/backend/blob/main/docs/assets/batong_ir_deck.pdf) |
 | 백엔드 | [yongyong-18team/backend](https://github.com/yongyong-18team/backend) · Spring Boot 3.5, PostgreSQL 16 |
 | 프론트엔드 | [yongyong-18team/frontend](https://github.com/yongyong-18team/frontend) · Next.js 16, React 19 |
 
@@ -23,6 +22,8 @@
 
 발달장애인 보호자 45명에게 설문한 결과(10.31~11.8)입니다.
 
+<img src="https://raw.githubusercontent.com/yongyong-18team/backend/main/docs/assets/deck_survey.jpg" alt="보호자 설문 결과 슬라이드" width="720">
+
 | 질문 | 응답 |
 | --- | --- |
 | 돌봄서비스 이용 시 대상자의 특성이나 주의사항을 전달하기 어려웠나요? | **80.0%** 자주 있었다 |
@@ -30,11 +31,15 @@
 
 ## 핵심 기능
 
+<img src="https://raw.githubusercontent.com/yongyong-18team/backend/main/docs/assets/deck_features.jpg" alt="핵심 기능 슬라이드" width="720">
+
 1. **기록과 AI 분석**: 음성이나 텍스트로 남긴 일기에서 AI가 행동 특성, 발생 상황, 대처 방법을 뽑아 제안합니다. 보호자가 승인한 항목만 돌봄 설명서에 쌓이고, 위기 표현이 감지되면 긴급 안전 안내로 바뀝니다.
 2. **기록 공유**: 보호자가 공유할 정보와 공개 범위를 직접 골라 기간 제한 링크를 만듭니다. 받는 사람은 앱 설치나 로그인 없이 엽니다. 링크는 7일 뒤 만료되고, 보호자가 언제든 막을 수 있습니다.
 3. **돌봄 탐색**: 돌봄 기간, 대상자 나이, 지역 조건으로 용인시 돌봄시설과 공공 지원제도를 찾고 신청 정보까지 안내합니다.
 
 ## 용인시 공공데이터
+
+<img src="https://raw.githubusercontent.com/yongyong-18team/backend/main/docs/assets/deck_publicdata.jpg" alt="공공데이터 활용 구조 슬라이드" width="720">
 
 | 수집 | 정제·검증 | 돌봄 자원 DB | 확장 범위 |
 | :---: | :---: | :---: | :---: |
